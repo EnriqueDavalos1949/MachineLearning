@@ -1,0 +1,39 @@
+# ⛔ Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# ⛔ Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ⛔ Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# ⛔ Log and temporary files
+*.log
+*.tmp
+*.swp
+
+# ⛔ System files
+.DS_Store
+Thumbs.db
+
+# ⛔ Editor-specific folders
+.vscode/
+.jupyter/
+
+# ⛔ Output or exported files
+*.out
+*.pdf
+*.csv
+*.xlsx
+*.sav
+*.zip
+
+# ⛔ Trained model files (optional)
+*.h5
+*.pkl
+*.joblib
